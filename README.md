@@ -17,7 +17,7 @@ To run the project locally after cloning it from GitHub, follow these instructio
 2. **Navigate to the Project Directory:**
 
 ```bash
-cd ./visualisation-dashboar
+cd ./visualisation-dashboard
 ```
 
 3. **Install Dependencies:**
